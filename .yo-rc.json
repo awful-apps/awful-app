@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Richard Fairthorne",
+      "authorEmail": "richard.fairthorne@gmail.com",
+      "authorUrl": ""
+    }
+  }
+}
