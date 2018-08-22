@@ -4,15 +4,13 @@
 ## Installation
 
 ```sh
-$ npm install --save awful-app
+$ npm i -g awful-app
 ```
 
 ## Usage
 
-```js
-const awfulApp = require('awful-app');
-
-awfulApp('Rainbow');
+```
+aweful
 ```
 ## License
 
